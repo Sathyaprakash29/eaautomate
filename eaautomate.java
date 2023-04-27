@@ -2,7 +2,7 @@ lass Main {
 
   public static void main(String[] args) {
     
-    int first = 11;
+    int first = 12;
     int second = 22;
 
     // add two numbers
